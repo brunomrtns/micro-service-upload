@@ -3,7 +3,7 @@
   "module": "src/index.ts",
   "type": "commonjs",
   "engines": {
-    "node": "20.11.1"
+    "node": "20.18.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
