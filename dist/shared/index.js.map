@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/shared/index.ts"],"sourcesContent":["export * from './translate-text'\n"],"names":[],"mappings":";;;;qBAAc"}
