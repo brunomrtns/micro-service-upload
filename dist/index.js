@@ -8,8 +8,8 @@ function _interop_require_default(obj) {
         default: obj
     };
 }
+const port = process.env.PORT || 3000;
 try {
-    const port = 3001;
     _app.default.listen(port, ()=>console.log(`Application running on port ${port}`));
 } catch (error) {
     console.error('Erro ao conectar ao banco de dados:', error);
